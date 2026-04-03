@@ -1,5 +1,3 @@
-[pascuas-cami10.html](https://github.com/user-attachments/files/26452151/pascuas-cami10.html)
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
